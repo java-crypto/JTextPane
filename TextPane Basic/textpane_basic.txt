@@ -1,0 +1,2 @@
+Das ist eine Testdatei für TextPane Basic.
+This is a test file for TextPane Basic.
